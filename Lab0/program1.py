@@ -1,0 +1,5 @@
+print("what is your name?")
+name = input()
+print("How old are you?")
+age = int(input())
+print(name, ' will turn 100 years old in ', 2022+100-age)
